@@ -1,0 +1,285 @@
+.rubixe-logo {
+    width: 60px;
+    height: 60px;
+}
+.logo-head{
+    text-decoration-line: underline;
+    font-size: 40px;
+    color: #ffffff;
+}
+.logo-para{
+    font-size: 12px;
+    color: #ffffff;
+}
+#navItem1 {
+    color: #ffffff;
+    font-family: "Roboto";
+}
+.banner-section-bg-container {
+    background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRVsCMXFPx4Z1ipH0tXellHShojbEloqZBuGA&usqp=CAU");
+    height: 100vh;
+    background-size: cover;
+}
+.banner-heading {
+    color: rgb(255, 255, 255);
+    font-family: "serif";
+    font-size: 62px;
+    font-weight: BOLD;
+}
+
+.banner-caption {
+    color: #f6f280;
+    font-family: "Roboto";
+    font-size: 44px;
+    font-weight: 300;
+}
+.tech-logo{
+    height: 65px;
+    width: 65px;
+}
+.wwa-img{
+    height: 130px;
+    width: 150px;
+}
+.wwr-section {
+    background-color: #ffffff;
+}
+.wws-section {
+    background-color: #ff00c3;
+}
+.wws-heading{
+    color: #ffffff;
+}   
+.wws-description{
+    color: #ffffff;
+}
+.techforteens-section{
+    background-color: #ababab;
+}
+.wcu-card {
+    text-align: center;
+    background-color: white;
+    border-style: solid;
+    border-width: 1px;
+    border-color: #e5eaf4;
+    border-radius: 16px;
+}
+.wcu-card-image {
+    width: 87px;
+    height: 90px;
+}
+.bg-container-1{
+    background-color: #041943;
+    height: 10vh;
+    border-radius: 10px;
+}
+.bg-container-2{
+    background-color: #ff00bb;
+    height: 10vh;
+    border-radius: 10px;
+}
+.bg-container-3{
+    background-color: #ff3806;
+    height: 10vh;
+    border-radius: 10px;
+}
+.bg-container-4{
+    background-color: #0d6c03;
+    height: 10vh;
+    border-radius: 10px;
+}
+.bg-container-5{
+    background-color: #a88314;
+    height: 10vh;
+    border-radius: 10px;
+}
+.inner-radius{
+    background-color: #ababab;
+    border-radius: 22px;
+    width: 45px;
+}
+.follow-us-section {
+    background-color: white;
+}
+
+.follow-us-section-heading {
+    text-align: center;
+    color: #183b56;
+    font-family: "Roboto";
+    font-size: 28px;
+    font-weight: 700;
+}
+
+.follow-us-icon-container {
+    background-color: #faf7e8;
+    width: 80px;
+    height: 80px;
+    border-radius: 40px;
+    margin: 15px;
+    padding-top: 22px;
+    padding-bottom: 14px;
+    padding-right: 16px;
+    padding-left: 22px;
+}
+.footer-section {
+    background-color: #ffffff;
+}
+
+.footer-section-mail-id {
+    color: #959ead;
+    font-family: "Roboto";
+    font-weight: bold;
+    font-size: 16px;
+    margin-top: 20px;
+}
+
+.footer-section-address {
+    color: #959ead;
+    font-family: "Roboto";
+    font-size: 14px;
+}
+
+.icon {
+    color: #d0b200;
+    font-size: 35px;
+}
+
+.services-bg-container{
+    background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSzI9viJ3ac8R_vVBifs4IJWLMhSaX0VFmdqw&usqp=CAU);
+    height: 100vh;
+    background-size: cover;
+}
+.s-bg{
+    background-color: rgb(251, 253, 254);
+    border-radius: 8px;
+}
+.about-headin{
+    color: white;
+}
+.s-img{
+    width: 60vw;
+    height: 30vh;
+    margin: 20px;
+}
+.service-para{
+    font-size: 8px
+}
+.service-head{
+    font-size: 16px;
+}
+.products-bg-container {
+    background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRbFeQCzuemKlxGolB6XACx3-we-HJE6NXiUA&usqp=CAU);
+    height: 100vh;
+    background-size: cover;
+}
+.internship-bg-container{
+    background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTsZK9cSmaJ4HTWrRrc5JxXp50-wBSEqn6m3Q&usqp=CAU);
+    height: 100vh;
+    background-size: cover;
+}
+.career-bg-container{
+    background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS1Yd2Y_M4Li0a27Civg9j22dRDG4PMNCNuTQ&usqp=CAU);
+    height: 100vh;
+    background-size: cover;
+}
+.blog-bg-container{
+    background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTr073j92-AnYgVqOa1In7TjUsIhaaKayYGmQ&usqp=CAU);
+    height: 100vh;
+    background-size: cover;
+}
+.about-bg-container{
+    background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRuKs7LRKs4wVBX_puBcc2-VONQB3f6Fovixw&usqp=CAU);
+    height: 100vh;
+    background-size: cover;
+}
+.contact-bg-container{
+    background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSGEeIoz6hXUI07BDI6pGBeYGqSqgkULwoVIQ&usqp=CAU);
+    height: 100vh;
+    background-size: cover;
+}
+.contactus-con{
+    background-color: #ffffff;
+    height: 50vh;
+}
+.msg-para{
+    font-size: 26px;
+}
+
+
+
+
+
+body {
+    background: linear-gradient(to right, #0f2027, #203a43, #2c5364);
+    font-family: 'Poppins', sans-serif;
+}
+
+#form {
+    width: 300px;
+    margin: 20vh auto 0 auto;
+    padding: 20px;
+    background-color: whitesmoke;
+    border-radius: 4px;
+    font-size: 12px;
+}
+
+#form h1 {
+    color: #0f2027;
+    text-align: center;
+}
+
+#form button {
+    padding: 10px;
+    margin-top: 10px;
+    width: 100%;
+    color: white;
+    background-color: rgb(41, 57, 194);
+    border: none;
+    border-radius: 4px;
+}
+
+.input-control {
+    display: flex;
+    flex-direction: column;
+}
+
+.input-control input {
+    border: 2px solid #f0f0f0;
+    border-radius: 4px;
+    display: block;
+    font-size: 12px;
+    padding: 10px;
+    width: 100%;
+}
+
+.input-control input:focus {
+    outline: 0;
+}
+
+.input-control.success input {
+    border-color: #09c372;
+}
+
+.input-control.error input {
+    border-color: #ff3860;
+}
+
+.input-control .error {
+    color: #ff3860;
+    font-size: 9px;
+    height: 13px;
+}
+.reg-head{
+    font-size: 38px;
+    margin: 10px;
+    color: #ff9900;
+    font-family: "Roboto";
+    text-align: center;
+}
+.reg-para{
+    font-size: 26px;
+    margin: 10px;
+    color: #ffffff;
+    font-family: "Roboto";
+    text-align: center;
+}
